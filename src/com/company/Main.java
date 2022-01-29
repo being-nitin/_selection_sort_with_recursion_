@@ -32,5 +32,6 @@ public class Main {
 on second last index and so on.
 r represent the last index +1 and c will be the remaining elements in which we will check the max element in
 an array.
+In the else condition it will just swap the last index will the max that is r-1.
 
  */
