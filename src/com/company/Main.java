@@ -28,10 +28,10 @@ public class Main {
         }
     }
 }
+
 /* selection sort means it will find the max element in an array and put it on the last index then the second last element
 on second last index and so on.
 r represent the last index +1 and c will be the remaining elements in which we will check the max element in
 an array.
-In the else condition it will just swap the last index will the max that is r-1.
-
+In the else condition, it will just swap the last index with the max that is r-1.
  */
